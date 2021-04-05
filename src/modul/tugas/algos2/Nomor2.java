@@ -41,7 +41,7 @@ public class Nomor2 {
         else {
             System.out.println("Matrix tidak sama");
         }
-            
+            System.out.println("Mokhamad Akbar Wijaya(20090037)");
     }
     
 }
