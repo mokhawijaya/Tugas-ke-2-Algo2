@@ -13,7 +13,7 @@ public class Nomor1 {
             }
             System.out.println();
         }
-        
+        System.out.print("Mokhamad Akbar Wijaya")
     }
     
 }
