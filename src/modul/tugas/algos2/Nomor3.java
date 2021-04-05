@@ -40,5 +40,6 @@ public class Nomor3 {
         else {
             System.out.println("Ukuran kolom A tidak sama dengan baris B");
         }
+        System.out.println("Mokhamad Akbar Wijaya(20090037)");
 }
 }
